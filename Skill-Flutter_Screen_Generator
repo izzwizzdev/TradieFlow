@@ -1,0 +1,10 @@
+SKILL: Generate Flutter Screen with Guided Workflow
+Task: Create a new Flutter screen called [SCREEN NAME] in apps/mobile/
+Requirements:
+- Use Riverpod 2.5+ (never setState)
+- Offline-first with Isar
+- Include AI co-pilot floating chat widget with contextual “Next best action” prompts
+- Voice-to-text + photo upload (GPT-4o vision for material suggestions)
+- Material 3 tradie-friendly high-contrast theme
+- Full GoRouter integration
+Output: Full Dart file + providers + tests + PR ready
