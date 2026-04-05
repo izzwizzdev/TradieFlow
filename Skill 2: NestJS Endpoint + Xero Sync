@@ -1,0 +1,9 @@
+SKILL: Create NestJS Endpoint + Prisma + Xero Sync
+Task: Build a new resource endpoint for [FEATURE] in apps/backend/
+Requirements:
+- NestJS resource pattern with Zod DTO + Swagger
+- Automatic Xero invoice push on status change
+- Enforce ATO tax invoice fields
+- Real-time Supabase broadcast
+- Full error handling + tests
+Output: Controller, Service, DTO, Prisma schema update + migration
