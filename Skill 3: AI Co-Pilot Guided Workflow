@@ -1,0 +1,8 @@
+SKILL: Add AI Co-Pilot Guidance
+Task: Add proactive AI guidance to [SCREEN OR FLOW]
+Requirements:
+- Analyse current state (quote/job/invoice)
+- Show “Next best action” suggestions (e.g. “Supplier price check on Reece?”)
+- Auto-flag underquoting risks
+- Request digital sign-off for variations
+Output: Updated component + Riverpod state logic
