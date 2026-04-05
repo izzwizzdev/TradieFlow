@@ -1,0 +1,7 @@
+SKILL: ATO Compliance & Peppol Validator
+Task: Ensure [INVOICE OR FEATURE] is fully ATO compliant
+Requirements:
+- Auto-add “Tax Invoice”, ABN, GST breakdown
+- Generate Peppol eInvoice JSON/XML
+- Validate against current Australian rules
+Output: Compliance service + tests
